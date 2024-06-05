@@ -1,8 +1,9 @@
 {
   "name": "csstoclass",
-  "displayName": "InlineCSStoClass",
+  "displayName": "HTML - Inline CSS to Class",
   "description": "",
   "version": "0.0.1",
+  "publisher": "kevinsanchez",
   "engines": {
     "vscode": "^1.89.0"
   },
