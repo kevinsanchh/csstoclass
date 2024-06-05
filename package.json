@@ -3,7 +3,7 @@
   "displayName": "HTML - Inline CSS to Class",
   "description": "",
   "version": "0.0.1",
-  "publisher": "kevinsanchez",
+  "publisher": "Kevin Sanchez",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -22,7 +22,7 @@
     "keybindings": [
       {
         "command": "extension.convertInlineStyles",
-        "key": "ctrl+shift+c",
+        "key": "alt+x",
         "when": "editorTextFocus"
       }
     ]

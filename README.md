@@ -36,7 +36,7 @@ This Visual Studio Code extension converts inline styles to CSS classes and copi
 
 1. **Select an HTML element** in the editor that contains inline styles.
 2. **Run the Command**:
-   - Press `Ctrl+Shift+C` to run the command.
+   - Press `Alt+X` to run the command.
    - Alternatively, open the Command Palette (`Ctrl+Shift+P`), type "Convert Inline Styles to CSS Class," and select the command.
 3. **Enter a Class Name**:
    - When prompted, enter a class name for the extracted styles.
